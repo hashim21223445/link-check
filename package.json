@@ -47,7 +47,7 @@
     "bottleneck": "^2.19.5",
     "commander": "^11.0.0",
     "execa": "^7.1.1",
-    "fast-glob": "^3.3.0",
+    "fast-glob": "^3.3.3",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
     "micromatch": "^4.0.5",
